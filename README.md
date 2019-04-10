@@ -1,3 +1,2 @@
 # module-a
-anything
-Modual a of Mr.Grimsley's Python course.
+Module a of Mr.Grimsley's Python course.
